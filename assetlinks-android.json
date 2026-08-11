@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "family.yommo.android",
+    "sha256_cert_fingerprints": ["1C:C0:9A:7D:26:D3:44:79:5A:B6:83:30:0E:32:F3:73:55:B2:0D:81:6A:6D:16:CF:E7:FE:F9:32:2F:B5:B9:ED"]
+  }
+}]

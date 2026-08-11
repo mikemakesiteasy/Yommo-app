@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.yommo.twa",
+      "sha256_cert_fingerprints": [
+        "80:DF:52:2E:74:2F:5A:3C:F7:34:9E:37:E0:15:83:7C:3D:82:EC:5F:4E:30:1F:45:3C:8A:F8:D9:9D:94:60:E3"
+      ]
+    }
+  }
+]
